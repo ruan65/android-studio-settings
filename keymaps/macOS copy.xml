@@ -2,6 +2,9 @@
   <action id="Dart.DartStyle">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt e" />
